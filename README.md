@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaiwen Yu.
 - 👀 I’m interested in full stack software engineering, computer vision and VR/AR design.
 - 🌱 I’m currently an MEng master student at UC, Berkeley, majoring in EECS, visual computing and computer graphics.
-- 💞️ I’m looking for full-time opportunities in software engineering, starting May 2022.
+- 💞️ I'm graduating this May and will start working as a full time SWE!
 - 📫 How to reach me: kwyyyu@gmail.com
 
 <!---
